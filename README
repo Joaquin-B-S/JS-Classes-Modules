@@ -1,0 +1,1 @@
+Comando para compilar babel npx babel . --out-dir compiled --ignore ./node_modules,./compiled --copy-files
